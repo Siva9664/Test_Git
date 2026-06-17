@@ -1,3 +1,4 @@
+nano notes.txt
 Hello Git
 Git Exercise
 Practice commits
