@@ -1,10 +1,6 @@
-nano notes.txt
 Hello Git
 Git Exercise
 Practice commits
 Practice commits
 Developer 1 update
 Feature branch changes
-Temporary changes
-Temporary changes
-Temporary changes
